@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+<cron>
+<url>/email</url>
+<description>Send email to subscribers on a regular schedule at 5:00PM</description>
+<schedule>every 2 minutes</schedule>
+<timezone>America/Chicago</timezone>
+<target>version-2</target>
+</cron>
+</cronentries>
